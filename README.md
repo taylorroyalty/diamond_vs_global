@@ -1,0 +1,1 @@
+# diamond_vs_global
